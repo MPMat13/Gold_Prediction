@@ -25,6 +25,6 @@ The main objective was to understand how **validation strategy** affects model r
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Mariusz  
 **Focus:** Data Science / Machine Learning / Time-Series Analysis  
 **Goal:** Exploring predictive modeling challenges in non-stationary financial data
